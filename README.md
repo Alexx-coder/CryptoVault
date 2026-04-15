@@ -15,11 +15,11 @@
 
 | Технология |
 |------------|
-| Fernet |
-| PBKDF2HMAC |
-| SHA256 |
-| Base64 |
-| Secrets (Python Libraly) |
+| `Fernet` |
+| `PBKDF2HMAC` |
+| `SHA256` |
+| `Base64` |
+| `Secrets (Python Libraly)` |
 
 - Ваши данные находятся в безопасности, подробнее:
 
